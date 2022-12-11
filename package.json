@@ -17,7 +17,7 @@
     "vue-socket-io": "^0.3.2",
     "vue-socket.io": "^3.0.7",
     "vuetify": "^2.1.0",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
